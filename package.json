@@ -6,10 +6,7 @@
   "scripts": {
     "build": "netlify-lambda build /",
 	"start": "nodemon server-local.js",
-	"netlify:serve": "netlify-lambda serve functions/",
-  },
-  "repository": {
-    "type": "git",
+	"netlify:serve": "netlify-lambda serve functions",
   },
   "keywords": [
     "netlify",
