@@ -1,0 +1,12 @@
+.card-comments img{width:4rem}
+.navbar {
+    background-color: #009688; }
+  
+  .top-nav-collapse {
+    background-color: #009688; }
+  
+  /* Adding color to the Navbar on mobile */
+  @media only screen and (max-width: 768px) {
+    .navbar {
+      background-color: #009688} }
+  
